@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&height=200&desc=[4조]Kafka&section=header&text=SK-Techno-Queen&fontSize=90&animation=twinkling&fontColor=fbc76f&descSize=30&descAlign=50&descAlignY=80)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SK-Techno-Queen&repo=Jeju_Server)](https://github.com/SK-Techno-Queen/Jeju_Server)
-[![Readme Card][(https://github-readme-stats.vercel.app/api/pin/?username=SK-Techno-Queen&repo=Jeju_Client_Deploy)] (https://github.com/SK-Techno-Queen/Jeju_Client_Deploy)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SK-Techno-Queen&repo=Jeju_Client_Deploy)](https://github.com/SK-Techno-Queen/Jeju_Client_Deploy)
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SK-Techno-Queen&repo=Jeju_Producer)](https://github.com/SK-Techno-Queen/Jeju_Producer) -->
 
 <br />
